@@ -1,0 +1,339 @@
+.elementor-kit-7{--e-global-color-primary:#6EC1E4;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#61CE70;--e-global-typography-primary-font-family:"Roboto";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"Roboto Slab";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"Roboto";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"Roboto";--e-global-typography-accent-font-weight:500;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-7 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start custom CSS */.gform_wrapper.gravity-theme .gsection {
+    border-bottom: 6px solid #092D64;
+    padding: 0 6px 8px 0; 
+    width: 80%;
+		margin: 0 auto !important;
+}
+
+input#input_2_59 {
+    width: 80%;
+}
+
+input#gform_submit_button_2 {
+    padding: 10px 40px 10px 40px;
+    border-radius: 10px;
+    background-color: #FF8B4A;
+font-size: 20px;
+    font-family: 'futura';
+    font-weight: 700;
+    letter-spacing: 0.5px;
+		transition: 0.3s ease-in-out !important;
+}
+
+input#gform_submit_button_2:hover{
+	transform: scale(1.1);
+}
+
+.gform_wrapper.gravity-theme .gform_footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+		margin-top: 50px;
+}
+
+div#field_2_46 h2{
+	text-decoration: underline;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'futura';
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    font-weight: 700 !important;
+		text-transform: uppercase;
+}
+
+div#field_2_32 h2{
+	text-decoration: underline;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'futura';
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    font-weight: 700 !important;
+text-transform: uppercase;
+}
+
+div#field_2_32 p {
+	font-size: 18px !important;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'futura';
+    font-weight: 700;
+    letter-spacing: 0.1px;
+		text-transform: uppercase;
+		margin-top: 20px !important;
+}
+
+div#field_2_56 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+span#gfield_upload_rules_2_56 {
+    display: none !important;
+}
+
+
+
+
+div#field_2_57 p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: 'futura';
+    letter-spacing: 0.1px;
+		text-transform: uppercase;
+		line-height: 30px !important;
+}
+
+div#field_2_54 p {
+    font-size: 18px !important;
+    margin-top: 10px;
+    text-align: center;
+    font-family: 'futura';
+    font-weight: 700;
+    letter-spacing: 0.1px;
+		text-transform: uppercase;
+		margin-top: 20px;
+}
+
+div#field_2_54 h2 {
+    text-decoration: underline;
+    text-align: center;
+    font-size: 28px;
+    font-family: 'futura';
+    letter-spacing: 0.1px;
+    line-height: 24px;
+    font-weight: 700 !important;
+		text-transform: uppercase;
+		
+}
+
+.gchoice.gchoice_2_20_0, .gchoice.gchoice_2_4_0, .gchoice.gchoice_2_4_1,
+.gchoice.gchoice_2_22_0,
+.gchoice.gchoice_2_23_0,
+.gchoice.gchoice_2_25_0,
+.gchoice.gchoice_2_25_1,
+.gchoice.gchoice_2_27_0,
+.gchoice.gchoice_2_49_0,
+.gchoice.gchoice_2_52_0,
+.gchoice.gchoice_2_65_0 {
+    margin-right: 15px!important;
+}
+
+input#input_2_53_other {
+    margin-left: 20px !important;
+    border-bottom: 1px solid #092D64;
+    background: transparent !important;
+	border-radius: 0px !important;
+    border: none;
+    border-bottom: 1px solid #092D64;
+    margin: 0px;
+    float: right !important;
+    margin-top: -35px;
+}
+
+input#input_2_24_other {
+    background: transparent !important;
+    border-radius: 0px !important;
+}
+
+.gform_wrapper.gravity-theme .gform_fields {
+    grid-row-gap: 25px;
+}
+
+
+select#input_2_7 {
+    box-sizing: border-box !important;
+    
+    border-radius: 5px;
+    height: 45px !important;
+ background: rgba(66, 204, 215, 0.4);
+}
+
+.gform_wrapper.gravity-theme .gfield-choice-input+label {
+    font-size: 16px !important;
+    font-weight: 500;
+ line-height: 24px !important;
+    letter-spacing: 0.1px !important;
+text-transform: uppercase !important;
+}
+
+textarea#input_2_29{
+	 background: rgba(66, 204, 215, 0.4);
+border-radius: 5px;
+}
+
+div#gform_fields_2 input[type=text] {
+    background: rgba(66, 204, 215, 0.4);
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.gform_wrapper.gravity-theme .gfield_label {
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    font-family: 'futura';
+    line-height: 24px !important;
+    letter-spacing: 0.1px !important;
+	text-transform: uppercase !important;
+}
+
+
+div#input_2_53 .gchoice {
+    display: block;
+    width: 30% !important;
+    float: left !important;
+		margin-bottom: 10px;
+}
+
+
+input#input_2_24_other {
+    margin-left: 20px !important;
+    border-bottom: 1px solid #092D64;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #092D64;
+margin: 0px;
+}
+
+div#input_2_28 .gchoice {
+    display: block !important;
+    width: 50% !important;
+    float: left;
+		margin-bottom: 10px;
+}
+
+#input_2_24 .gchoice {
+    display: block !important;
+    width: 30% !important;
+    float: left;
+margin-bottom: 10px;
+}
+
+.gchoice.gchoice_2_24_4 br {
+    display: none;
+}
+
+.gform_wrapper.gravity-theme .ginput_container_date input {
+    width: 100%;
+}
+
+.gfield_radio .gchoice {
+    display: inline;
+}
+
+.elementor-20 .elementor-element.elementor-element-9fcc3ac .elementor-tab-title {
+    border-width: 1px solid #000000;
+    padding: 15px 15px 15px 15px;
+    border: 1px solid #F7CC40;
+    border-radius: 20px;
+    background-color: #F7CC40;
+}
+
+.processapp{
+	-webkit-text-stroke: 2px #092D64;
+    color: #F7CC40;
+}
+
+.application{
+    filter: drop-shadow(-5px 5px 5px rgba(0, 0, 0, 0.25));
+}
+
+.process .spanprocess{
+    -webkit-text-stroke: 2px #FFFFFF;
+color:  rgba(9, 45, 100, 0.1); !important;  
+}
+
+.AppProcess h2{
+    -webkit-text-stroke: 2px #FD5B1B;
+color: rgba(66, 204, 215, 0.2) !important;    
+    
+}
+
+.AppProcess .caringn {
+    color: #FD5B1B;
+}
+
+
+u.care{
+	position: relative !important;
+	text-decoration: none !important;
+}
+
+u.care::after {
+    content: '';
+    position: absolute;
+    bottom: 4px;
+    left: 0px;
+    right: 0px;
+    border-bottom: 3px solid #FFFFFF;
+}
+
+u.career{
+	position: relative !important;
+	text-decoration: none !important;
+}
+
+u.career::after {
+    content: '';
+    position: absolute;
+    bottom: 4px;
+    left: 0px;
+    right: 60px;
+    border-bottom: 3px solid #FFFFFF;
+}
+
+.machado ul {
+    margin: 0 0 1.5em 1em !important;
+}
+
+.caringnsupport h2{
+   -webkit-text-stroke: 2px #092D64;
+}
+
+.charleft.ginput_counter.gfield_description {
+    display: none;
+}
+
+.navmenu ul li a::after {
+    width: 50% !important;
+    position: absolute !important;
+    left: 20px !important;
+}
+
+div#gform_fields_1 input[type=text] {
+    background: rgba(66, 204, 215, 0.4);
+    padding: 13px;
+    border-radius: 5px;
+}
+
+div#gform_fields_1 textarea{
+	background: rgba(66, 204, 215, 0.4);
+	border-radius: 5px;
+}
+
+input#gform_submit_button_1{
+	background: #FF8B4A;
+	border-radius: 20px;
+	font-size: 24px;
+	text-transform: uppercase;
+	font-family: 'futura', sans-serif;
+	font-weight: 700;
+	letter-spacing: 1.5px;
+	 transition: transform 0.3s ease;
+}
+
+div#gform_fields_1 label.gfield_label.gform-field-label{
+	font-size: 16px;
+	font-weight: 800;
+	font-family: 'futura', sans-serif;
+	text-transform: uppercase;
+	letter-spacing: 1.2px;
+	
+}
+
+input#gform_submit_button_1:hover{
+	transform: scale(1.1);
+}/* End custom CSS */
